@@ -1,4 +1,0 @@
-
-math : 20
-physique : 20
-informatique : 20
