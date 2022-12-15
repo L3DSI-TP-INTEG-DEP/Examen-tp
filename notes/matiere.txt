@@ -1,0 +1,3 @@
+cross platfrorm : 17
+math : 18
+buissnes: 20
